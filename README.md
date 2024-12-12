@@ -1,6 +1,6 @@
-# Scholar AI
+# LearnAble AI
 
-Scholar AI is an inclusive educational platform designed to support students with disabilities. It offers a suite of features aimed at enhancing learning experiences through advanced AI technologies.
+LearnAble AI is an inclusive educational platform designed to support students with disabilities. It offers a suite of features aimed at enhancing learning experiences through advanced AI technologies.
 
 ## Features
 
